@@ -1,0 +1,27 @@
+So, in my project
+
+We are following agile model...
+
+I used to involve in ceramonies like Scrum meeting, sprint planning , spring review , sprint retrospective and backlog refinement meetings
+ 
+ 
+ After the sprint planning team lead used to plan for stories distribution..
+ 
+  After discussing with the team in the scrum I used to create the subtasks like TestCasedesign, functionaltesting, test review and inline automation
+  for stories which are aligned to me.
+  
+  In the phase of development i used to analyse the story and prepare test cases based on the acceptance criteria
+  
+  If there is any doubts in the story I will collaberate with the developers or Scrum master to get it clear
+  
+  once the story moved to ready for QA.. I would execute the test cases and if I found any bugs then I will report in Jira with the 
+  steps to reproduce and attach the screeshots
+  
+  In Parlelly I develope the automation scripts which are the tests can be automated
+  
+  Once the bug fix done I will retest it and execute the automation script 
+  If the test results got as expected I will move it into Ready for Acceptance and I will give the demo in the stand up call
+  
+ 
+these activities i would involve on daily basis
+ 

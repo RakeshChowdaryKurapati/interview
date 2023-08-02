@@ -1,0 +1,82 @@
+Project and Framework explanation
+
+I am working on medical ecommerce project.. It is a web application
+
+This application is about to develop an online platform for the sale of medical equipment and supplies to healthcare professionals and patients. 
+The platform will allow users to browse and purchase products, track orders, and access information about the products they are interested in.
+The flow of the application starts with the user creating an account, then they can browse the products, add them to the cart, and proceed to checkout.
+The user can pay for the order through our integrated payment gateway. 
+After the payment is done, they will receive an email confirmation of their order with the order number, shipping details and other information. 
+The user can also track their order through their account dashboard.
+
+
+
+
+The project is build on Agile process so we followed sprint model sprint duration is 15 days
+
+Here responsibilities like 
+Test Script Development, Test Execution, Defect Reporting, Test Data Setup, Test Result Analysis, Automated Regression Testing
+
+I used cucumber with selenium in the automation with the testNg extensions
+
+We used Maven project for build, execution, and dependency purpose.
+and  Integrating the TestNG dependency in the POM.xml file and running this
+POM.xml file using Jenkins.
+
+In the framework we have different packages like
+
+Utilities package with all generic and common method classses .... and
+
+configuration folder with config files and properties files .... and
+
+features package to narrate the test steps of the scenarios
+
+stepdefinations package for the Java classes that map the Gherkin steps to actual code implementations. 
+				Each step in the feature file is associated with a corresponding method in these classes.
+				
+ObjectsRepository for storing the page objects like xpaths and data
+
+runners package with TestRunner class, which is the entry point for Cucumber test execution. 
+		  It specifies the path to the feature files, the location of step definitions, and other Cucumber-specific configurations.
+
+CustomExceptions package to handle the exceptions
+
+hooks package to execute code before or after scenarios or steps, enabling setup and teardown actions.
+
+ExternalSources package to store files like json files and excel files which contains test data and including data providers or data reading/writing utilities.
+
+reports package to report generation and management classes.
+
+Target folder for results and screenshots of the execution
+
+This is the frame work structure we followed for the automation...And
+
+Before Sprint completion 
+I used to push my code to the git hub with the sprint name tag and smoke or regression or any tags based on the priority of the story
+
+I used to execute the regression twice in a week by using jenkins
+
+
+This is about my project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
