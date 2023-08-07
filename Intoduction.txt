@@ -3,23 +3,30 @@ Hi ........,
 
 Basically i am from Andhrapradesh
 
-I  have 3.2 years of experience in the IT industry as a software engineer in manual and automation testing
+I  have 3.2 years of experience in the IT industry as a software engineer in manual and automation testing that to completely in QA
 
-Automation testing exactly in selenium  
+From the past two years I am involved mainly in automation.. It doesn't mean completly automation.. aroung 60 to 70 percent in automation and 
 
-Apart from that I have good understanding in programming language java and oops concepts
+20 to 30 percent in manual testing
+
+when coming to manual testing 
 
 I have experience in Test Plan, Test case developement, review and execution and off course bug reporting and tracking 
 
+Automation testing exactly in selenium ...
+
+I have experience in cucumber framework and testng which is widely used
+
 For test management I am using Jira and the same has been used for bug reporting too
+
+version control i have knowldge on git hub 
+
+I have knowledge on jenkins too
+
+Apart from that I have good understanding in programming language like java and oops concepts
+
 
 In my journey I have involved in two projects one is financial domain and other one is e commerce domain
 
 currently i am learning database testing
-
-
-
-
-
-
 

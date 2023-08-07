@@ -23,5 +23,5 @@ I used to involve in ceramonies like Scrum meeting, sprint planning , spring rev
   If the test results got as expected I will move it into Ready for Acceptance and I will give the demo in the stand up call
   
  
-these activities i would involve on daily basis
+these are the activities i would involve on daily basis
  

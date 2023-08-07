@@ -1,0 +1,28 @@
+Java oops
+
+In the interview and programming point  of you oops concept is important
+
+Oops have 4 principle
+
+Inheritance 
+
+polimorphism
+
+Encapsulation 
+
+abstraction
+
+If any language having these principles those programming languages can be OOP language
+
+For Declaring primitive data types we are not creating any objectcs
+
+In java there are static key concept --- Static methods can be called without creating an object, and they can operate on non-static members
+
+By these characteristics java is not 100 percent oop
+
+But 95% of the charcters are similar to oop language
+
+Thats why we are calling Java is an object oriented programming
+
+
+
