@@ -5,10 +5,9 @@ We are following agile model...
 I used to involve in ceramonies like Scrum meeting, sprint planning , spring review , sprint retrospective and backlog refinement meetings
  
  
- After the sprint planning team lead used to plan for stories distribution..
+ After the sprint planning....In the scrum Testing team lead used to plan for stories alignment to the team members..
  
-  After discussing with the team in the scrum I used to create the subtasks like TestCasedesign, functionaltesting, test review and inline automation
-  for stories which are aligned to me.
+  After discussing with the team in the scrum I used to create the subtasks like TestCasedesign, functionaltesting, test review and inline automation for stories which are aligned to me.
   
   In the phase of development i used to analyse the story and prepare test cases based on the acceptance criteria
   
