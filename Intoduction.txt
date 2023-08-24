@@ -25,8 +25,9 @@ I have knowledge on jenkins too
 
 Apart from that I have good understanding in programming language like java and oops concepts
 
+and I have knowledge in SQL and Database testing
 
 In my journey I have involved in two projects one is financial domain and other one is e commerce domain
 
-currently i am learning database testing
+currently i am learning Mobile testing with Appium
 
