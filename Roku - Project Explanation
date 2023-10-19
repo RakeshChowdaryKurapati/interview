@@ -1,0 +1,49 @@
+Roku Project Explanation
+
+Coming To roku Project 
+I worked for ReDiscover channel
+
+A Family-Friendly television channel bringing the best in entertainment like movies, Shows for all ages
+
+Every time we view an ad, or subscribe to this channel for premium content, we are helping poverished children on the border Mexico.
+
+It is Non-Profit Organization who delivers toys, food, clothing and education throughout the year
+
+
+Actually I was the part of a developement team
+
+In the middle of the channel development I had joined in the team..
+
+BrightScript is the primary programming language used for developing
+
+I used eclipse as the IDE with the necessary plugins 
+
+In my project I used Scenegraph framework  for building the user interface structure of screens, components, and navigation
+
+XML is commonly used to define the structure and layout of screens and components within SceneGraph in Roku channel development
+
+XML is the markup language used to describe the hierarchical structure of screens, dialogs, and components 
+
+XML file can contains Components and parent and child nodes
+
+component named "Main" that extends the "Scene" component, which is the base for building Roku interfaces.
+
+BrightScript script associated with the "Main" component. It links to the "Main.brs" file located in the directory.
+
+after we need to put container It will have child nodes
+
+For example we need two buttons like submit and Reset under a label
+
+we need to create Group node . It is be the child node for the main scene
+
+Under the groub node we can describe two button tags with the id of the button , text, height and width and translation
+
+These attributes will be associated with the event handler function which is defined in bright script file
+
+In the bright script file we need to write the code for the  event handlers
+
+In the images folder we will maintain the logos , splash images and other artwork
+
+I am using git for as the version control. we can track the chages
+
+On requirement basis I used to push the code into the git hub
