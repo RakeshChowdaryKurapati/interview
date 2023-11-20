@@ -1,5 +1,8 @@
 Project and Framework explanation
 
+I have worked in maple project , which deals with Zuora application which provides SRBM services for a business and provide detail analysis of expenses by term plan in that we can view billing,finance and revenue details of a business
+
+==============================
 I am working on medical ecommerce project.. It is a web application
 
 This application is about to develop an online platform for the sale of medical equipment and supplies to healthcare professionals and patients. 
@@ -8,6 +11,7 @@ The flow of the application starts with the user creating an account, then they 
 The user can pay for the order through our integrated payment gateway. 
 After the payment is done, they will receive an email confirmation of their order with the order number, shipping details and other information. 
 The user can also track their order through their account dashboard.
+
 
 
 
